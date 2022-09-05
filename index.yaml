@@ -3,7 +3,7 @@ entries:
   first-app:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-09-05T15:46:20.928962647+03:00"
+    created: "2022-09-05T16:09:08.085379317+03:00"
     description: A Helm chart for Kubernetes
     digest: 218d8e82771a5ff8ddccd3bdcaef94b3c414f4aa3a0f0d1041db8da25b8b0158
     name: first-app
@@ -11,4 +11,4 @@ entries:
     urls:
     - https://github.com/S-Stepanenko/helm-demo-21.git/first-app-0.2.0.tgz
     version: 0.2.0
-generated: "2022-09-05T15:46:20.928187977+03:00"
+generated: "2022-09-05T16:09:08.084647524+03:00"
