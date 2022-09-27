@@ -214,3 +214,4 @@ Then you can start deployment of your application with disabled embedded mariadb
 ```bash
 helm install sa-joomla  --set mariadb.enabled=false,externalDatabase.host=<ID_DB>,externalDatabase.password=joomla,global.storageClass=nfs-client,joomlaUsername=admin,joomlaPassword=password bitnami/joomla
 ```
+11111
